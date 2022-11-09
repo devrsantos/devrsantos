@@ -3,9 +3,9 @@
 ### Uma pequena descrição rápida
 
 - 🔭 Desenvolvedor Back-End(Node.JS)
-- 🎓 Estudante de Análise e Desenvolvimento de Sistema - 1º Ano
+- 🎓 Estudante de Análise e Desenvolvimento de Sistema
 - 📖 Atualmente estou aprendendo sobre React | TDD | Clean Code
-- 📫 Para entrar em contato comigo: devrsantos@gmail.com / devrsantos@outlook.com
+- 📫 Para entrar em contato comigo: devrsantos@gmail.com / devrsantos@outlook.com / [WhatsApp](https://wa.me/<+5514998416715>)
 
 <div align="center">
   <a href="https://github.com/devrsantos">
